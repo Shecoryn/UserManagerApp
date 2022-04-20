@@ -1,2 +1,2 @@
 # UserManagerApp
-CRUD application to manage users.
+CRUD Spring Boot application to manage users.
